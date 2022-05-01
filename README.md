@@ -1,5 +1,6 @@
-Test the app:
-# https://crypto-app-project.netlify.app/
+### _Test the app:_
+
+# (https://crypto-app-project.netlify.app/)
 
 # Getting Started with Create React App
 
